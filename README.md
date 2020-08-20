@@ -1,6 +1,8 @@
 # Leiths documentation
 
 ## Professional Courses
+
+### Putting a 2020 Design course live
 To avoid issues with Google linking to older Professional Course pages, we need the URL of new Professional Course pages to match the older course. This can't be actioned until the new page goes live.
 
 Here's what to do:
