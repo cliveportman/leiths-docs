@@ -19,3 +19,11 @@ Here's what to do:
 - Disable the old entry and save it.
 - Go to the new entry and replace the new entry's slug with the one you copied from the old entry.
 - Enable the new entry. Save it.
+
+### Override Bookinglive with a waiting list message
+Some of the professional courses fetch availability data from Bookinglive but aren't updated in real-time. You can override the Bookinglive availability and display a `COURSE FULL - call or email to be join the waiting list` message.
+
+Edit the entry as follows:
+- Entries > Professional Courses > Click on the entry to edit.
+- Click on the `Meta` tab
+- Scroll down to the bottom and switch on the `Override Bookinglive with waiting list message` 
